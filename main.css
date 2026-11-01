@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-body {
+/* body {
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -12,7 +12,7 @@ body {
     background-color: #01631d;
     font-family: Arial, sans-serif;
     padding: 20px;
-}
+} */
 
 .slider-container {
     width: 100%;
