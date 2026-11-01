@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-/* body {
+body {
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -12,14 +12,13 @@
     background-color: #01631d;
     font-family: Arial, sans-serif;
     padding: 20px;
-} */
-
+}
 .slider-container {
     width: 100%;
     max-width: 500px;
 }
 
-.slider {
+/* .slider {
     position: relative;
     width: 100%;
     border-radius: 16px;
@@ -27,7 +26,7 @@
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
     background-color: #fff;
     aspect-ratio: 5 / 6; 
-}
+} */
 
 .slider img {
     width: 100%;
