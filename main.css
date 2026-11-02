@@ -18,7 +18,7 @@ body {
     max-width: 500px;
 }
 
-/* .slider {
+.slider {
     position: relative;
     width: 100%;
     border-radius: 16px;
@@ -26,7 +26,7 @@ body {
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
     background-color: #fff;
     aspect-ratio: 5 / 6; 
-} */
+}
 
 .slider img {
     width: 100%;
